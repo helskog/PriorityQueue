@@ -26,6 +26,9 @@ Each steam64 id is stored inside `priorityusers.json` with the following format:
   - Output all steam64 ids populated in the list.
 </details>
 
+## Dependencies
+- [VampireCommandFramework](https://thunderstore.io/c/v-rising/p/deca/VampireCommandFramework/) by Deca.
+
 ## Credits
 
 - [Deca](https://github.com/deca) for VampireCommandFramework.

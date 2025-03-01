@@ -4,6 +4,16 @@ A plugin to allow a list of non-administrators logging into full servers on V-Ri
 List of steam64 ids are stored in: 
 `\SERVER_FOLDER\BepInEx\config\PriorityQueue`
 
+Each steam64 id is stored inside `priorityusers.json` with the following format:
+```json
+{
+  "priorityUsers": [
+    "12345678910121314",
+    "41312101987654321"
+  ]
+}
+```
+
 <details>
 <summary><strong>Ingame Commands</strong></summary>
 

@@ -36,4 +36,4 @@ Each steam64 id is stored inside `priorityusers.json` with the following format:
 
 ## License
 
-This project is licensed under the AGPL-3.0 license.
+This project is licensed under the GPL-3.0 license.

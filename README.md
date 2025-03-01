@@ -5,7 +5,7 @@ List of steam64 ids are stored in:
 `\SERVER_FOLDER\BepInEx\config\PriorityQueue`
 
 <details>
-<summary><strong>Commands</strong></summary>
+<summary><strong>Ingame Commands</strong></summary>
 
   
 - `.priority add steam64id`

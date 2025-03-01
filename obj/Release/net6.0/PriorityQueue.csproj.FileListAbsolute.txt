@@ -1,0 +1,13 @@
+C:\Users\pc\Desktop\priorityqueue\PriorityQueue\bin\Release\net6.0\PriorityQueue.deps.json
+C:\Users\pc\Desktop\priorityqueue\PriorityQueue\bin\Release\net6.0\PriorityQueue.dll
+C:\Users\pc\Desktop\priorityqueue\PriorityQueue\bin\Release\net6.0\PriorityQueue.pdb
+C:\Users\pc\Desktop\priorityqueue\PriorityQueue\obj\Release\net6.0\PriorityQueue.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\priorityqueue\PriorityQueue\obj\Release\net6.0\MyPluginInfo.cs
+C:\Users\pc\Desktop\priorityqueue\PriorityQueue\obj\Release\net6.0\PriorityQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\priorityqueue\PriorityQueue\obj\Release\net6.0\PriorityQueue.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\priorityqueue\PriorityQueue\obj\Release\net6.0\PriorityQueue.AssemblyInfo.cs
+C:\Users\pc\Desktop\priorityqueue\PriorityQueue\obj\Release\net6.0\PriorityQueue.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\priorityqueue\PriorityQueue\obj\Release\net6.0\PriorityQueue.dll
+C:\Users\pc\Desktop\priorityqueue\PriorityQueue\obj\Release\net6.0\refint\PriorityQueue.dll
+C:\Users\pc\Desktop\priorityqueue\PriorityQueue\obj\Release\net6.0\PriorityQueue.pdb
+C:\Users\pc\Desktop\priorityqueue\PriorityQueue\obj\Release\net6.0\ref\PriorityQueue.dll

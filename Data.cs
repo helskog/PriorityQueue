@@ -40,7 +40,7 @@ public class Data
         {
             config = new Config
             {
-                PriorityUsers = new string[] { "123456789", "987654321" }
+                PriorityUsers = new string[] { "12345678910121314", "41312101987654321" }
             };
 
             string json = JsonSerializer.Serialize(config, new JsonSerializerOptions { WriteIndented = true });

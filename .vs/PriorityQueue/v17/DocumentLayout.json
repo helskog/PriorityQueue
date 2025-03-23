@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\priorityqueue\\PriorityQueue\\",
+  "WorkspaceRootPath": "C:\\dev\\V Rising dev\\V-Rising Plugins\\priorityqueue\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD200A07-6DA1-4C7E-9821-1D41DB83D969}|PriorityQueue.csproj|c:\\users\\pc\\desktop\\priorityqueue\\priorityqueue\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FD200A07-6DA1-4C7E-9821-1D41DB83D969}|PriorityQueue.csproj|c:\\dev\\v rising dev\\v-rising plugins\\priorityqueue\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD200A07-6DA1-4C7E-9821-1D41DB83D969}|PriorityQueue.csproj|solutionrelative:plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD200A07-6DA1-4C7E-9821-1D41DB83D969}|PriorityQueue.csproj|c:\\users\\pc\\desktop\\priorityqueue\\priorityqueue\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FD200A07-6DA1-4C7E-9821-1D41DB83D969}|PriorityQueue.csproj|c:\\dev\\v rising dev\\v-rising plugins\\priorityqueue\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{FD200A07-6DA1-4C7E-9821-1D41DB83D969}|PriorityQueue.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD200A07-6DA1-4C7E-9821-1D41DB83D969}|PriorityQueue.csproj|c:\\dev\\v rising dev\\v-rising plugins\\priorityqueue\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD200A07-6DA1-4C7E-9821-1D41DB83D969}|PriorityQueue.csproj|solutionrelative:commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,32 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\dev\\V Rising dev\\V-Rising Plugins\\priorityqueue\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\dev\\V Rising dev\\V-Rising Plugins\\priorityqueue\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-03-23T18:42:32.593Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Plugin.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\priorityqueue\\PriorityQueue\\Plugin.cs",
+              "DocumentMoniker": "C:\\dev\\V Rising dev\\V-Rising Plugins\\priorityqueue\\Plugin.cs",
               "RelativeDocumentMoniker": "Plugin.cs",
-              "ToolTip": "C:\\Users\\pc\\Desktop\\priorityqueue\\PriorityQueue\\Plugin.cs",
+              "ToolTip": "C:\\dev\\V Rising dev\\V-Rising Plugins\\priorityqueue\\Plugin.cs",
               "RelativeToolTip": "Plugin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-01T08:48:18.931Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Commands.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\priorityqueue\\PriorityQueue\\Commands.cs",
+              "DocumentMoniker": "C:\\dev\\V Rising dev\\V-Rising Plugins\\priorityqueue\\Commands.cs",
               "RelativeDocumentMoniker": "Commands.cs",
-              "ToolTip": "C:\\Users\\pc\\Desktop\\priorityqueue\\PriorityQueue\\Commands.cs",
+              "ToolTip": "C:\\dev\\V Rising dev\\V-Rising Plugins\\priorityqueue\\Commands.cs",
               "RelativeToolTip": "Commands.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T08:48:08.405Z"
+              "WhenOpened": "2025-03-01T08:48:08.405Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,5 +1,5 @@
 # PriorityQueue
-A plugin to allow a list of non-administrators logging into full servers on V-Rising.
+A plugin to allow a list of non-administrators logging into full servers on V Rising.
 
 List of steam64 ids are stored in: 
 `\SERVER_FOLDER\BepInEx\config\PriorityQueue`
